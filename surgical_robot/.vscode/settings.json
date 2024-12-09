@@ -1,0 +1,9 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/blinex/project_1/install/teleop_control/lib/python3.10/site-packages",
+        "/home/blinex/project_1/install/tb_control/lib/python3.10/site-packages",
+        "/home/blinex/project_1/install/rc_control/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

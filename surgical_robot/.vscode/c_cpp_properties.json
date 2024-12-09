@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/blinex/pr3/install/surgical_robot/include/**",
+        "/home/blinex/project_1/install/robotcar/include/**",
+        "/home/blinex/project_1/install/odometry/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/blinex/pr3/src/surgical_robot/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
